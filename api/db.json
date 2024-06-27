@@ -1,0 +1,193 @@
+{
+  "evler": [
+    {
+      "id": "1",
+      "name": "Lüks Daire",
+      "price": 500000,
+      "odaSayisi": 3,
+      "metrekare": 120,
+      "adres": "İstanbul",
+      "kat": 2,
+      "banyoSayisi": 2,
+      "balkonSayisi": 1,
+      "yapimYili": 2015,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "2",
+      "name": "Modern Villa",
+      "price": 1500000,
+      "odaSayisi": 5,
+      "metrekare": 300,
+      "adres": "Ankara",
+      "kat": 3,
+      "banyoSayisi": 3,
+      "balkonSayisi": 2,
+      "yapimYili": 2018,
+      "isitmaTipi": "Merkezi Sistem"
+    },
+    {
+      "id": "36b3",
+      "name": "ev",
+      "price": 1200000,
+      "odaSayisi": 2,
+      "metrekare": 120,
+      "adres": "Edirne",
+      "kat": 2,
+      "banyoSayisi": 1,
+      "balkonSayisi": 2,
+      "yapimYili": 2010,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "4",
+      "name": "Geniş Apartman Dairesi",
+      "price": 750000,
+      "odaSayisi": 4,
+      "metrekare": 150,
+      "adres": "İzmir",
+      "kat": 5,
+      "banyoSayisi": 2,
+      "balkonSayisi": 1,
+      "yapimYili": 2020,
+      "isitmaTipi": "Merkezi Sistem"
+    },
+    {
+      "id": "5",
+      "name": "Küçük Stüdyo",
+      "price": 300000,
+      "odaSayisi": 1,
+      "metrekare": 50,
+      "adres": "Antalya",
+      "kat": 1,
+      "banyoSayisi": 1,
+      "balkonSayisi": 1,
+      "yapimYili": 2019,
+      "isitmaTipi": "Elektrik"
+    },
+    {
+      "id": "6",
+      "name": "Bahçeli Ev",
+      "price": 950000,
+      "odaSayisi": 3,
+      "metrekare": 200,
+      "adres": "Bursa",
+      "kat": 2,
+      "banyoSayisi": 2,
+      "balkonSayisi": 2,
+      "yapimYili": 2014,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "7",
+      "name": "Tarihi Konak",
+      "price": 2000000,
+      "odaSayisi": 7,
+      "metrekare": 500,
+      "adres": "Trabzon",
+      "kat": 3,
+      "banyoSayisi": 4,
+      "balkonSayisi": 3,
+      "yapimYili": 1920,
+      "isitmaTipi": "Soba"
+    },
+    {
+      "id": "8",
+      "name": "Şehir Merkezi Dairesi",
+      "price": 800000,
+      "odaSayisi": 3,
+      "metrekare": 100,
+      "adres": "Adana",
+      "kat": 4,
+      "banyoSayisi": 2,
+      "balkonSayisi": 1,
+      "yapimYili": 2017,
+      "isitmaTipi": "Merkezi Sistem"
+    },
+    {
+      "id": "9",
+      "name": "Deniz Manzaralı Villa",
+      "price": 2500000,
+      "odaSayisi": 6,
+      "metrekare": 400,
+      "adres": "Muğla",
+      "kat": 2,
+      "banyoSayisi": 3,
+      "balkonSayisi": 3,
+      "yapimYili": 2015,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "10",
+      "name": "Müstakil Ev",
+      "price": 1100000,
+      "odaSayisi": 4,
+      "metrekare": 250,
+      "adres": "Eskişehir",
+      "kat": 1,
+      "banyoSayisi": 2,
+      "balkonSayisi": 2,
+      "yapimYili": 2016,
+      "isitmaTipi": "Merkezi Sistem"
+    },
+    {
+      "id": "71f0",
+      "name": "deneme",
+      "price": 1200000,
+      "odaSayisi": 3,
+      "metrekare": 200,
+      "adres": "Edirne",
+      "kat": 2,
+      "banyoSayisi": 1,
+      "balkonSayisi": 2,
+      "yapimYili": 2000,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "c4ba",
+      "name": "Los Pollos Hermanos",
+      "price": 120000,
+      "odaSayisi": 2,
+      "metrekare": 180,
+      "adres": "Edirne",
+      "kat": 2,
+      "banyoSayisi": 1,
+      "balkonSayisi": 2,
+      "yapimYili": 2015,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "6277",
+      "name": "deneme",
+      "price": 123,
+      "odaSayisi": 1,
+      "metrekare": 123,
+      "adres": "Edirne",
+      "kat": 2,
+      "banyoSayisi": 3,
+      "balkonSayisi": 2,
+      "yapimYili": 2000,
+      "isitmaTipi": "Doğalgaz"
+    },
+    {
+      "id": "60fa",
+      "name": "denemeee",
+      "price": 123123,
+      "odaSayisi": 2,
+      "metrekare": 123,
+      "adres": "Edirne",
+      "kat": 2,
+      "banyoSayisi": 3,
+      "balkonSayisi": 2,
+      "yapimYili": 2000,
+      "isitmaTipi": "Doğalgaz"
+    }
+  ],
+  "kullanicilar": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}

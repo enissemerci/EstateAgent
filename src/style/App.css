@@ -1,0 +1,4 @@
+.custom-menu .ant-menu-item-active,
+.custom-menu .ant-menu-item-active:hover {
+  background-color: #E88D67 !important; /* Change active and hover background color */
+}
